@@ -18,22 +18,23 @@ border:5px solid black;
 	}
 .blue{
 	background-color: blue;
-	
+	padding-bottom: 1.33%;
 	
 }
-.yellow{background-color: yellow;}
-	
+.yellow{background-color: yellow;
+	padding-bottom: 1.33%;
+}
 .footer{
 	background-color: teal;
 	min-height: 100px;
 	width: 100%;
-	
+	padding-top: 1.33%;
 
 }
 .header2{
 	min-height: 100px;
 	background-color: aqua;
-	
+	padding-top: 1.33%;
 }
 .container{
 	overflow: hidden;
@@ -46,7 +47,7 @@ border:5px solid black;
 	width: 60%;
 	background-color: #290080;
 	float: left;
-	
+	padding-bottom: 1.8%
 
 
 }
@@ -54,7 +55,7 @@ border:5px solid black;
 	width:40%;
 	background-color: #9a7f7f;
 	float: right;
-	
+	padding-bottom: 5.99%;
 
 }
 .footer2{
