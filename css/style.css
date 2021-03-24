@@ -1,3 +1,9 @@
+.header{color: #feffff;
+	min-height: 100px;
+	background-color: #252731;
+}
+.wrapper{
+overflow: hidden;
 border:5px solid black;
 }
 
@@ -13,17 +19,21 @@ border:5px solid black;
 .blue{
 	background-color: blue;
 	
+	
 }
-.yellow{background-color: yellow;
-}
+.yellow{background-color: yellow;}
+	
 .footer{
 	background-color: teal;
 	min-height: 100px;
 	width: 100%;
+	
+
 }
 .header2{
 	min-height: 100px;
 	background-color: aqua;
+	
 }
 .container{
 	overflow: hidden;
@@ -35,43 +45,20 @@ border:5px solid black;
 	min-height: 100px;
 	width: 60%;
 	background-color: #290080;
-	float: left;}
+	float: left;
+	
+
+
+}
 .blog{min-height: 100px;
 	width:40%;
 	background-color: #9a7f7f;
 	float: right;
+	
+
 }
 .footer2{
 	min-height: 100px;
 	
 	background-color:#5f78ff;
-}
-
-
-
-.wrapper{
-	overflow: hidden;
-
-	border: 15px teal;
-
-}
-.box{float: left;
-	min-height: 150px;
-	width: 33.33%;
-}
-.teal{
-	background-color: teal;
-	
-}
-.aqua{
-	background-color: aqua;
-	
-}
-.lightblue{background-color: lightblue;
-	
-}
-
-
-.footer{min-height: 80px;
-	background-color: #63754e;
-clear: both}
+padding-top: 1%}
